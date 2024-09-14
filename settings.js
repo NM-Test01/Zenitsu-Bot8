@@ -5,23 +5,23 @@ const chalk = require('chalk')
 
 //owmner v card
 global.ytname = "YT: Deepak" //ur yt chanel name
-global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
-global.location = "India, West Bengal, Darjeeling" //ur location
+global.socialm = "Insta: Lord_ghost_01" //ur github or insta name
+global.location = "Cameroon, Littoral, My House" //ur location
 
 //new
-global.botname = 'Zenitsu-Bot8' //ur bot name
-global.ownernumber = '917029257330' //ur owner number
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
+global.botname = 'Zenitsu' //ur bot name
+global.ownernumber = '237671623609' //ur owner number
+global.ownername = 'Ghost San 😶‍🌫️' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🪀'
 global.wm = "Deepak Bot Inc."
 global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot8' //script link
-global.packname = "Zenitsu-Bot"
-global.author = "🦄Dream Guy Deepak"
-global.creator = "917029257330@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["917029257330","918348225320"] // Premium User
+global.packname = "Lord_Ghost"
+global.author = "Ghost"
+global.creator = "237671623609@s.whatsapp.net"
+global.xprefix = '!'
+global.premium = ["237696559593","237671623609"] // Premium User
 global.hituet = 0
 
 //bot sett
